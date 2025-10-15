@@ -12,8 +12,8 @@ My goal was essentially to understand how to properly build one so I tried to ma
       <td align="center"><h2><b>Tiny Tokenizer</b> <br/>(this repo)</h2></td>
     </tr>
     <tr>
-      <td align="center"><img src="./illus/repo_illu.png" width="320"/></td>
-      <td align="center"><img src="./illus/repo_illu_2.png" width="320"/></td>
+      <td align="center"><img src="./illus/repo_illu.png" width="220"/></td>
+      <td align="center"><img src="./illus/repo_illu_2.png" width="220"/></td>
     </tr>
   </table>
 </p>
