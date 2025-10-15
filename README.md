@@ -29,7 +29,7 @@ My goal was essentially to understand how to properly build one so I tried to ma
 
 #### Additional features included in this implementation:
 - Parallelized pre-tokenization (uses maximum amount of available CPU cores).
-- Direct update of appropriate pre-tokens during merges (no need to scan the whole corpus at each merge).
+- Direct update of appropriate pre-tokens during merges (uses caches to avoid scanning the whole corpus after each merge).
 - Handle user-specified special tokens.
 
 ---
