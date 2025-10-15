@@ -1,7 +1,7 @@
 # Tiny Tokenizer:
 I wrote this self-contained implementation of a Byte-Pair Encoding (BPE) tokenizer covering the full pipeline from training to encoding / decoding.
 
-My goal was essentially to understand how to properly build one so I tried to make the code as readable as possible for future reference, while keeping acceptable performance. It's decent (trains on TinyStories in a couple of minutes on my setup) but can still be improved.
+My goal was essentially to understand how to properly build one so I tried to make the code as readable as possible for future reference, while keeping decent performance (trains on TinyStories in a couple of minutes on my setup) but can still be improved.
 
 **NB:** This is essentially a dressed-up version of my resolution of the tokenizer-from-scratch task of Stanford's CS-336.
 
