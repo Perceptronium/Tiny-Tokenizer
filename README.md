@@ -39,6 +39,7 @@ My goal was essentially to understand how to properly build one so I tried to ma
 - `models/tokenizer.py` — defines the `Tokenizer` class that loads the trained vocab and associated merges, and provides `encode` / `decode` methods.
 - `train_bpe.py` — CLI to train and save `vocab.pkl` and `merges.pkl`.
 - `test_tokenizer.py` — CLI to encode/decode sample inputs using saved vocab and merges.
+- `bpe_educational.ipynb` — an illustrative notebook for teaching the BPE algorithm
 
 ---
 
